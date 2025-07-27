@@ -134,3 +134,6 @@ dist
 .vivliostyle
 /*.pdf
 node_modules
+
+# Ignore the stats log file
+!.github/stats.log
