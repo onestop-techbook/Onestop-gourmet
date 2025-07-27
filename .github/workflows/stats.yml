@@ -25,14 +25,14 @@ jobs:
         run: |
           count=$(find . -type f -name "*.md" | wc -l)
           echo "md_count=$count" >> $GITHUB_OUTPUT
-          echo "$count" > .github/.md-count.log
+          echo "$count" > .github/stats.log
           echo "Markdown files count: $count"
 
       - name: Restore previous count
         id: previous
         run: |
           git fetch origin main
-          if git show origin/main:.md-count.log > old_count.txt 2>/dev/null; then
+          if git show origin/main:.github/stats.log > old_count.txt 2>/dev/null; then
             prev_count=$(cat old_count.txt)
           else
             prev_count=0
@@ -41,7 +41,7 @@ jobs:
           echo "prev_count=$prev_count" >> $GITHUB_OUTPUT
 
       - name: echo log file
-        run: cat .github/.md-count.log
+        run: cat .github/stats.log
 
       - name: 💬 Notify if count has changed
         if: steps.count.outputs.md_count != steps.previous.outputs.prev_count
@@ -52,3 +52,7 @@ jobs:
         run: |
           diff=$((CURRENT_COUNT - PREVIOUS_COUNT))
           deno run --allow-env --allow-net .github/scripts/notify-stats.ts $PREVIOUS_COUNT $CURRENT_COUNT
+
+      - name: echo git diff
+        run: |
+          git diff
