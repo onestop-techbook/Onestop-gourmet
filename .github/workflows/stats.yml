@@ -53,6 +53,8 @@ jobs:
           diff=$((CURRENT_COUNT - PREVIOUS_COUNT))
           deno run --allow-env --allow-net .github/scripts/notify-stats.ts $PREVIOUS_COUNT $CURRENT_COUNT
 
-      - name: echo git diff
-        run: |
-          git diff
+      - name: Save stats log
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: "chore: update stats.log"
+          add: ".github/stats.log"
