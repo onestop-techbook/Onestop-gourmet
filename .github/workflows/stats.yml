@@ -20,13 +20,13 @@ jobs:
         with:
           deno-version: v2.x
 
-      - name: Count Markdown files
+      - name: Count Chapter files
         id: count
         run: |
-          count=$(find . -type f -name "*.md" | wc -l)
-          echo "md_count=$count" >> $GITHUB_OUTPUT
+          count=$(deno run --allow-read .github/scripts/count-chapters.ts | grep "Chapter files count:" | awk '{print $4}')
+          echo "chapter_count=$count" >> $GITHUB_OUTPUT
           echo "$count" > .github/stats.log
-          echo "Markdown files count: $count"
+          echo "Chapter files count: $count"
 
       - name: Restore previous count
         id: previous
@@ -40,17 +40,13 @@ jobs:
           echo 'prev_count=$prev_count'
           echo "prev_count=$prev_count" >> $GITHUB_OUTPUT
 
-      - name: echo log file
-        run: cat .github/stats.log
-
-      - name: 💬 Notify if count has changed
-        if: steps.count.outputs.md_count != steps.previous.outputs.prev_count
+      - name: Notify if count has changed
+        if: steps.count.outputs.chapter_count != steps.previous.outputs.prev_count
         env:
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL_DEV }}
-          CURRENT_COUNT: ${{ steps.count.outputs.md_count }}
+          CURRENT_COUNT: ${{ steps.count.outputs.chapter_count }}
           PREVIOUS_COUNT: ${{ steps.previous.outputs.prev_count }}
         run: |
-          diff=$((CURRENT_COUNT - PREVIOUS_COUNT))
           deno run --allow-env --allow-net .github/scripts/notify-stats.ts $PREVIOUS_COUNT $CURRENT_COUNT
 
       - name: Save stats log
