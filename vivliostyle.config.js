@@ -36,6 +36,8 @@ const def = {
 
     "chap-gomana2_1.md",
     "chap-yumechi.md",
+    "chap-mottox2-coffee.md",
+    
 
     // 後書き
     "90-postscript.md",
@@ -82,3 +84,4 @@ if (isPrint) {
 }
 
 export default def;
+
