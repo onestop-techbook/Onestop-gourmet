@@ -102,6 +102,24 @@ Webアプリケーションのバックエンドエンジニアですが、い�
 都内でソフトウェアエンジニアとして働いています。主戦場は、Go言語。
 </p>
 
+<div class="author-profile">
+    <img src="images/llminatoll-icon.jpg">
+    <div>
+        <div>
+            <b>湊川（みなとがわ）あい</b>
+            <a href="https://x.com/llminatoll/">Twitter(X)@llminatoll</a>
+        </div>
+        <div>
+            サークル名：湊川あいの、わかば家。
+            <a href="https://llminatoll.booth.pm/">pixiv BOOTH</a>
+        </div>
+    </div>
+</div>
+<p style="margin-top: 0.5em; margin-bottom: 2em;">
+解説漫画家。表紙イラストと、「材料3つ、5分でつくるラスク」「鮭の柚子胡椒ホイル蒸し」のレシピを担当しました。2023年に我が子をデプロイし、しばらく運用（育児）にかかりきりでした。最近やっと手が離れてきましたので、やっていくぞ〜という気持ちです。久々に「ワンストップくんちゃん」を描けて楽しかったです。表紙の料理がおいしそうに見えているといいのですが。
+</p>
+
+
 <!-- ページ数調整 -->
 <br />
 <br />

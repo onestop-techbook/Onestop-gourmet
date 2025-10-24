@@ -137,3 +137,8 @@ node_modules
 
 # Ignore the stats log file
 !.github/stats.log
+
+### macOS ###
+.DS_Store
+.AppleDouble
+.LSOverride
