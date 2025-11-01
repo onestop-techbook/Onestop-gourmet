@@ -1,3 +1,7 @@
+---
+class: chapter
+---
+
 # おすすめ調理器具
 実際に使用してみて、良かった調理器具を紹介します。
 
@@ -17,7 +21,7 @@
 
 では、これを使って何を作るかというと、肉味噌ですね。豚肉でも鶏肉でもいいのですが、ひき肉を香味野菜や調味料と一緒に鍋で煮込むだけで肉味噌になります。これがご飯やパスタ、うどんなど何にかけても美味しいし、そのままおつまみにしても良いです。市販のひき肉に比べればかなりヘルシーに、かつふりかけのような味濃いめにできるのでおすすめです。
 
-![ぶんぶんチョッパー](images/chap-recommended_cooking_equipment/bunbun.jpg)
+![ぶんぶんチョッパー](images/chap-recommended_cooking_equipment/bunbun.jpg){width=50%}
 
 ## ホットサンドメーカー
 ホットサンドメーカー（画像引用元<span class="footnote">https://www.wahei.co.jp/products/atsuhokadining/21468.html</span>）はAmazonでだいたい1,500円程度で買えます。ホットサンドメーカーはサンドイッチ、ホットサンドを焼くものなのですが、私は一回もホットサンド（サンドイッチ）を焼いたことがなく多くは肉を焼いています。
@@ -30,7 +34,7 @@
 
 ただ注意点として、フライパンや鍋と違って深さ、容器自体の深さがかなり浅いので、豚肉など特に水分が出やすい肉を焼くと結構水が出ます。そのあたりは軽く蓋を開けて水分を飛ばしながら最初は焼いて、じっくり後で焼き込むみたいなのがあっても良いかなと思います。まあ、こぼれたら拭けば良いだけなので、気にせずに焼いて後で拭くという運用もありかなと思います。
 
-![ホットサンドメーカー](images/chap-recommended_cooking_equipment/hotsand.jpg)
+![ホットサンドメーカー](images/chap-recommended_cooking_equipment/hotsand.jpg){width=50%}
 
 ## 片手鍋（雪平鍋）
 これは特に一人暮らしの人におすすめなのですが、大きい鍋の他に雪平鍋（画像引用元<span class="footnote">https://kiya-hamono.jp/products/0007000003</span>）とか片手鍋と言われる一人身用の小さい鍋があると便利です。
@@ -41,4 +45,4 @@
 
 あと単純に安いというのがあるので、雑に使って頻繁に買い換えるなんてこともできますし、最近の鍋はフライパンと同じくテフロン加工など、くっつきにくい加工をしているものもあるので、フライパン代わりにちょっとしたものを焼く、肉とか魚とか野菜炒めなどもできます。そのあたりもフライパンを1個買うよりは、片手鍋を買うというのもありかなと思っています。
 
-![雪平鍋](images/chap-recommended_cooking_equipment/yukihira.png)
+![雪平鍋](images/chap-recommended_cooking_equipment/yukihira.png){width=50%}

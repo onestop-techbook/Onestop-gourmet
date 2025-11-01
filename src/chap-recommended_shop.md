@@ -1,3 +1,7 @@
+---
+class: chapter
+---
+
 # おすすめのお店
 「食」に関わるおすすめのお店を紹介します。飲食店のほか、調理器具や食材についても紹介できたら紹介します。
 
@@ -13,38 +17,38 @@
  * 美味しすぎるサイドメニュー
  * ガージェリービールの衝撃
 
-![ハンバーガー](images/chap-recommended_shop/skippers_1.jpg)
+![ハンバーガー](images/chap-recommended_shop/skippers_1.jpg){width=50%}
 
 ハンバーガーのパティは整形されたひき肉ではなく、ステーキのようなこだわりのお肉をお店でパティにしているので肉汁がすごいです。文字通りあふれる肉汁で口や手が大変になる程なのですが、だからこそ美味しいです！そして、付け合わせのポテトや単品のハラミなどがまた美味しく、お酒のつまみにも食事としても一級品です。
 
-![ガージェリービール](images/chap-recommended_shop/skippers_1.jpg)
+![ガージェリービール](images/chap-recommended_shop/skippers_2.jpg){width=50%}
 
 そして、ガージェリービールが最高に美味しいのです！このビールは飲食店だけで飲める国産ビールで、リュトンと呼ばれるオリジナルグラスで提供されます。このグラスは自立しないようになっており、同じくガラス製の台座に刺して提供されます。味も見た目も必見のビールです！
 
-![潮見スキッパーズ](images/chap-recommended_shop/skippers.png)
+![潮見スキッパーズ](images/chap-recommended_shop/skippers.png){width=20%}
 
 ## とんつう（焼肉）
 総武線は錦糸町にある焼肉、とんつう。とある界隈では聖地とされている焼肉屋さんですが、ここは本当にお肉が美味しいです！
 
-![肉](images/chap-recommended_shop/tontu1.jpg)
+![肉](images/chap-recommended_shop/tontu1.jpg){width=50%}
 
 お肉のただのカルビとかハラミではなく、店主の方のこだわりで様々な部位（名前も特殊）が味わえます。そのこだわりは仕入れで身体を壊すくらいのもの。ぜひお店に行って、そのこだわりが書かれたメニュー裏をご覧ください。
 
-![肉肉](images/chap-recommended_shop/tontu2.jpg)
+![肉肉](images/chap-recommended_shop/tontu2.jpg){width=50%}
 
 焼肉以外にもローストビーフやごはんものも充実しており、豪勢な食事として楽しむこともできます。もちろんお酒を飲むのも最高です！
 
-![とんつう](images/chap-recommended_shop/tontu.png)
+![とんつう](images/chap-recommended_shop/tontu.png){width=20%}
 
 ## ヨッシーズ（ビール）
 日比谷線は茅場町にある「東京で2番目に美味しいビールが飲める店」ことヨッシーズ。ここで飲めるビールはサッポロ黒ラベルなどよく見るビールなのですが、本当に美味しい生ビールが飲めます！
 
-![黒ラベル](images/chap-recommended_shop/yos1.jpg)
+![黒ラベル](images/chap-recommended_shop/yos1.jpg){width=50%}
 
 常に3〜4種類の生ビールが飲めるのと、ビアカクテルも楽しめます。特におすすめなカクテルはお店の名前を冠したヨッシーズビア。ハーフ&ハーフのビールにグレープフルーツジュースのカクテルで非常に飲みやすいのにしっかり味わいがある。生ビールもそうですが、ビールは好みじゃないという人にこそ飲んで欲しい一杯です。北海道で飲む黒ラベルよりも美味しいなんて話もありました。
 
-![ヨッシーズビア](images/chap-recommended_shop/yos2.jpg)
+![ヨッシーズビア](images/chap-recommended_shop/yos2.jpg){width=50%}
 
 他にもパインソラチなど提供しているビールによっても変わります。さらにビールにあうおつまみとして鳥の唐揚げや季節の一品ありますので、一度足を運んでみてはいかがでしょうか？
 
-![ヨッシーズ](images/chap-recommended_shop/yos.png)
+![ヨッシーズ](images/chap-recommended_shop/yos.png){width=20%}

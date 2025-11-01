@@ -26,13 +26,11 @@ const def = {
 
     // 第一部 とにかく楽をする
     "part-easy.md",
-	"chap-introduction.md",
 	"chap-okazunomoto.md",
 
 
     // 第二部 Vivliostyleについて
     "part-tips.md",
-	"chap-placeholder.md",
 	"chap-oyakata-cookingenginerring.md",
 	"chap-rhodium-thermal.md",
     "chap-gomana2_1.md",
@@ -62,6 +60,7 @@ const def = {
 
     "chap-llminatoll_1_rusk.md",
     "chap-llminatoll_2_sake.md",
+	"chap-oyakata-himono.md",
 
     "chap-column.md",
     
