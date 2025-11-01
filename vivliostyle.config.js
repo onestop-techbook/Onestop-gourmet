@@ -57,7 +57,9 @@ const def = {
     "chap-ponyoxa.md",
 
     "chap-kouno.md",
-
+	"chap-allergy.md",
+	"chap-oyakata-supermarktet.md",
+	"chap-oyakata-onecup.md",
     "chap-llminatoll_1_rusk.md",
     "chap-llminatoll_2_sake.md",
 	"chap-oyakata-himono.md",
