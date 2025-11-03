@@ -86,7 +86,7 @@ const def = {
   workspaceDir: ".vivliostyle", // directory which is saved intermediate files.
   toc: {
     title: "目次", // title of table of contents. default to 'Contents'.
-    sectionDepth: 2,
+    sectionDepth: 1,
     includeCover: false, // include cover page in table of contents. default to 'false'.
   },
   // cover: './cover.png', // cover image. default to undefined.
@@ -114,6 +114,7 @@ if (isPrint) {
 }
 
 export default def;
+
 
 
 

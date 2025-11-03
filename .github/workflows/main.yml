@@ -33,8 +33,8 @@ jobs:
       - name: build book for screen
         run: bun run build
 
-      - name: build book for print
-        run: bun run build:print
+      # - name: build book for print
+      #   run: bun run build:print
 
       # PDFのアップロード
       - name: Upload PDF artifacts
