@@ -38,6 +38,7 @@ const def = {
     "chap-yumechi-2-coffee.md",
     "chap-yumechi-3-protein.md",
     "chap-mottox2-coffee.md",
+    "chap-mottox2-no-cooking.md",
     "chap-forte_1_short-diet.md",
     "chap-forte_2_Seasonal-foods.md",
     "chap-forte_3_Specialty-store.md",
@@ -112,6 +113,7 @@ if (isPrint) {
 }
 
 export default def;
+
 
 
 
