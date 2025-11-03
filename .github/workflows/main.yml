@@ -17,7 +17,7 @@ jobs:
 
       - name: Install IBM Plex Sans
         run: |
-          cp ./fonts/IBMPlex*.otf /usr/share/fonts/
+          cp ./fonts/IBMPlex*.ttf /usr/share/fonts/
 
       - name: Install Harano Aji fonts
         run: |
