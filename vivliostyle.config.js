@@ -54,6 +54,12 @@ const def = {
     "chap-ditflame_04_cream_pasta.md",
     "chap-ditflame_06_easy_fukuromen.md",
 
+    "chap-ditflame_03_be_sharp_your_blade.md",
+  	"chap-ditflame_07_curry_careful.md",
+  	"chap-ditflame_08_emergency_food.md",
+  	"chap-ditflame_10_world_of_mint.md",
+  	"chap-ditflame_09_shareholder_greeting.md",
+
     "chap-yuusukesan18.md",
 
     "chap-ponyoxa.md",
@@ -118,3 +124,4 @@ if (isPrint) {
 }
 
 export default def;
+
