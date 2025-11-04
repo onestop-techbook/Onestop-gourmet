@@ -70,7 +70,7 @@ const def = {
 	"chap-kitchenknife.md",
 	"chap-basebread.md",
 	"chap-kawahara-simple.md",
-
+	"chap-rhodium-2.md",
     "chap-column.md",
 
     // 後書き
