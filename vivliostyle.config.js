@@ -45,6 +45,8 @@ const def = {
     "chap-forte_4_low-salt.md",
     "chap-forte_5_media.md",
 
+    "chap-erukiti1.md",
+
     "chap-recommended_cooking_equipment.md",
     "chap-recommended_shop.md",
 
