@@ -47,7 +47,7 @@ const def = {
 
     "chap-recommended_cooking_equipment.md",
     "chap-recommended_shop.md",
-    
+
     "chap-ditflame_01_zosui.md",
     "chap-ditflame_02_thanko_ricecooker.md",
     "chap-ditflame_05_auto_washer.md",
@@ -65,12 +65,14 @@ const def = {
     "chap-llminatoll_1_rusk.md",
     "chap-llminatoll_2_sake.md",
 	"chap-oyakata-himono.md",
+
 	"chap-traditionalbase.md",
 	"chap-kitchenknife.md",
 	"chap-basebread.md",
+	"chap-kawahara-simple.md",
 
     "chap-column.md",
-    
+
     // 後書き
     "90-postscript.md",
     "98-authors.md",
@@ -116,9 +118,3 @@ if (isPrint) {
 }
 
 export default def;
-
-
-
-
-
-
