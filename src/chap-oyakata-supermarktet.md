@@ -2,7 +2,7 @@
 class: chapter
 ---
 
-# 各地の職を知るためにスーパーに行く
+# 各地の食を知るためにスーパーに行く
 
 <div class="flush-right">
 おやかた

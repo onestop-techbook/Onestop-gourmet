@@ -65,6 +65,10 @@ const def = {
     "chap-llminatoll_1_rusk.md",
     "chap-llminatoll_2_sake.md",
 	"chap-oyakata-himono.md",
+
+	"chap-traditionalbase.md",
+	"chap-kitchenknife.md",
+	"chap-basebread.md",
 	"chap-kawahara-simple.md",
 
     "chap-column.md",
