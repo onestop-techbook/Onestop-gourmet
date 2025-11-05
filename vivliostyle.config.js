@@ -63,6 +63,7 @@ const def = {
   	"chap-ditflame_09_shareholder_greeting.md",
 
     "chap-yuusukesan18.md",
+	"chap-nabekura-eating.md",
 
     "chap-ponyoxa.md",
 
