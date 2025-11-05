@@ -32,26 +32,21 @@ $$
 
 ### 矩形断面の場合
 
-![alt text](image.png)|![alt text](image-1.png)|
-
-|---|---|
+![1](images/chap-rhodium-2/image.png){widwh=50%}
 
 ゼラチン化したレイヤーの成長が階段状になっていますが、これは微分方程式を数値解法により求めたことが原因です。
 
 900秒のゼラチン化の分布をみると、表面はゼラチン化してしまいベタベタしてしまう状態になっていることが分かります。一方内部にはわずかに芯が残っています。
 
-![alt text](image-2.png)|![alt text](image-3.png)|
-
-|---|---|
-
+![矩形形状](images/chap-rhodium-2/img2.png)
 
 矩形の他の形状として、円形と花形を試します。
 
 ### 円形断面の場合
 
-![alt text](image-4.png)|![alt text](image-5.png)|
 
-|---|---|
+![円形形状](images/chap-rhodium-2/img3.png)
+
 
 900秒経過したときも円形では芯がかなり残っています。これでは表面はベタベタ、中心部は硬いという食感の差が大きくなってしまいます。
 |![alt text](image-9.png)|![alt text](image-8.png)|
