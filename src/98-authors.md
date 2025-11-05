@@ -157,7 +157,6 @@ Webアプリケーションのバックエンドエンジニアですが、い�
 仕事はtoCサービスをRuby on Rails、Javaで作っている。テックリードらしい。東葛.devというコミュニティやってます。
 </p>
 
-
 <div class="author-profile">
     <img src="images/rhodium_400x400.jpg">
     <div>
@@ -174,6 +173,20 @@ Webアプリケーションのバックエンドエンジニアですが、い�
 <p style="margin-top: 0.5em; margin-bottom: 2em;">
 カナガワケンと見せかけて少し違うところでお仕事している化学者です。最近、自称化学者で機械学習とか基盤とかを多くやっている。数値計算とかおもしろそうだよね、と思う今日この頃
 </p>
+
+<div class="author-profile">
+    <img src="images/ditflame_400x400.jpg">
+    <div>
+        <div>
+            <b>ふーれむ(ditflame)</b>
+            <a href="https://twitter.com/ditflame">X@ditflame</a>
+        </div>
+    </div>
+</div>
+<p style="margin-top: 0.5em; margin-bottom: 2em;">
+なんか14章ぐらい書いてました……(親方Project合同誌ではいつものことといえばいつものことなのだけど)。個人的にはリボネギの概念を推していきたいです。
+</p>
+
 <!-- ページ数調整 -->
 <br />
 <br />
@@ -185,5 +198,6 @@ Webアプリケーションのバックエンドエンジニアですが、い�
 <br />
 <br />
 <br />
+
 
 
