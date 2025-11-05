@@ -61,7 +61,12 @@ const def = {
   	"chap-ditflame_08_emergency_food.md",
   	"chap-ditflame_10_world_of_mint.md",
   	"chap-ditflame_09_shareholder_greeting.md",
-
+    
+    "chap-ditflame_11_souvenir.md",
+    "chap-ditflame_12_ajitama.md",
+    "chap-ditflame_13_revonegi.md",
+    "chap-ditflame_14_nomikai.md",
+    
     "chap-yuusukesan18.md",
 
     "chap-ponyoxa.md",
