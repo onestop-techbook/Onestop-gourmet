@@ -40,13 +40,11 @@ $$
 
 ![矩形形状](images/chap-rhodium-2/img2.png)
 
+![円形形状](images/chap-rhodium-2/img3.png)
+
 矩形の他の形状として、円形と花形を試します。
 
 ### 円形断面の場合
-
-
-![円形形状](images/chap-rhodium-2/img3.png)
-
 
 900秒経過したときも円形では芯がかなり残っています。これでは表面はベタベタ、中心部は硬いという食感の差が大きくなってしまいます。
 
@@ -54,11 +52,12 @@ $$
 
 ### 花形断面の場合
 
-![花形形状](images/chap-rhodium-2/imgflower.png)
-
 花形にすることで、芯はかなり軽減されました。
 
 特に500秒過ぎからはゼラチン化が穏やかになり、中心部のゼラチン化が進んでいないことが分かります。
+
+![花形形状](images/chap-rhodium-2/imgflower.png)
+
 
 ![花形形状のゼラチン化領域](images/chap-rhodium-2/img4.png)
 
