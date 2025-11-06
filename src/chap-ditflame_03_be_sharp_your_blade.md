@@ -22,42 +22,42 @@ author: "ditflame"
 ※注１:おねだんは執筆時点(2025/08)のamazon実売価格ベースです<BR>
 ※注２:仕上げ砥石は不要と判断し買ってません。
 
-![必要な一式　※注：バケツは写ってない](images/chap-ditflame_03_sharpyourblade/05.jpg)
+![必要な一式　※注：バケツは写ってない](images/chap-ditflame_03_sharpyourblade/05.jpg){width=60%}
 
 ## 研ぐ手順
 
 まずは水をバケツに張って、砥石と面直し砥石をしっかり(最低15分)浸水させます。
 
-![浸水](images/chap-ditflame_03_sharpyourblade/06.jpg)
+![浸水](images/chap-ditflame_03_sharpyourblade/06.jpg){width=60%}
 
 浸水していくと、最初は泡が出ます。泡が出なくなるまではひたすら浸水します。別に15分と言わず、1時間ぐらい浸水しても大丈夫です。別に15分以上でも問題はないので私の場合は数時間ほっとくケースが多いです。
 
-![泡が出つづけるのでじっと待とう](images/chap-ditflame_03_sharpyourblade/07.jpg)
+![泡が出つづけるのでじっと待とう](images/chap-ditflame_03_sharpyourblade/07.jpg){width=60%}
 
 砥石の浸水が終わったら砥石を置き、面直し砥石で砥石の面をフラットにします。これで砥石側の準備は完了です。
 
-![面直し砥石で砥石をフラットに直そう](images/chap-ditflame_03_sharpyourblade/08.jpg)
+![面直し砥石で砥石をフラットに直そう](images/chap-ditflame_03_sharpyourblade/08.jpg){width=60%}
 
 包丁の欠けをまずは確認します。包丁の刃の部分を光にかざすことで、刃の部分の欠けが見やすくなります。ぜひ見ておきましょう。
 
-![包丁を光にかざすと欠けが見える](images/chap-ditflame_03_sharpyourblade/09.jpg)
+![包丁を光にかざすと欠けが見える](images/chap-ditflame_03_sharpyourblade/09.jpg){width=60%}
 
 またサビ等がある場合は、事前にサビを取っておきましょう。これには「サビトール」という包丁用の砂消しゴムが売られており、これを使うのが楽です。サビのところをを荒目から順番にこすっていくとサビが取れます。<BR>
 ※今回はステンレス刃の包丁だったのでサビている箇所はなく<span class="footnote">ステンレス刃だとサビる事はほぼないですが、鋼の包丁だとすぐサビがちです</span>、実際の作業画像は割愛してます。
 
-![サビトール](images/chap-ditflame_03_sharpyourblade/10.jpg){width=80%}
+![サビトール](images/chap-ditflame_03_sharpyourblade/10.jpg){width=60%}
 
 面直し砥石で研がれてフラットになった砥石に対し、包丁を常に同じ角度になるよう斜めに当てて、ひたすら同じ角度で研ぎ続けます。
 
-![片側を研ごう](images/chap-ditflame_03_sharpyourblade/11.jpg)
+![片側を研ごう](images/chap-ditflame_03_sharpyourblade/11.jpg){width=60%}
 
 なお、並行にちゃんと力を入れたほうが良く研げます。
 
-![片側を研ごう その２](images/chap-ditflame_03_sharpyourblade/12.jpg)
+![片側を研ごう その２](images/chap-ditflame_03_sharpyourblade/12.jpg){width=60%}
 
 包丁の片側が研げると、刃の先が逆側にひっくりかえる、いわゆる「反り返り」という現象が起きます（手で直接触ると鋭利な棘が刺さる事があるので注意）。そうしたら逆側からも同様に研ぎます（逆側は刃を整えるだけなので半分ぐらいの回数で良い）。
 
-![ひっくり返して逆側も研ごう](images/chap-ditflame_03_sharpyourblade/13.jpg)
+![ひっくり返して逆側も研ごう](images/chap-ditflame_03_sharpyourblade/13.jpg){width=60%}
 
 研ぐ画像は粗砥石でまず粗研ぎで研いでいますが、このあと中研ぎ砥石でも同様に両側を研ぎます。<BR>
 もし仕上げ砥石があるなら、これでも同様に両側を研ぎましょう。それらの研ぎが終われば、研ぎは完成しているはずです。
@@ -65,11 +65,11 @@ author: "ditflame"
 最後に確認のため紙を切ってみたりして、ひっかかりがない事や、刃に紙の繊維がつかない事を確認したら包丁研ぎが終わり、包丁が綺麗に研げている事がわかります。<BR>
 ※なお、画像ではコピー用紙を使っていますが、新聞紙などでも良いです。
 
-![紙で切れ味を見よう](images/chap-ditflame_03_sharpyourblade/14.jpg)
+![紙で切れ味を見よう](images/chap-ditflame_03_sharpyourblade/14.jpg){width=60%}
 
 後片付けも、砥石を面直し砥石で改めてフラットにしておき、その後砥石を乾かせば終了です（1日ぐらい外干ししましょう）。
 
-![砥石を乾かす](images/chap-ditflame_03_sharpyourblade/15.jpg){width=70%}
+![砥石を乾かす](images/chap-ditflame_03_sharpyourblade/15.jpg){width=60%}
 
 ## おわりに
 

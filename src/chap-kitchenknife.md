@@ -5,7 +5,7 @@ class: chapter
 # 包丁を研ぐ
 
 <div class="flush-right">
-おやかた@Oyakata2438
+おやかた@oyakata2438
 </div>
 
 包丁研いだことありますか？

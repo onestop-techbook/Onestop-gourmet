@@ -11,7 +11,7 @@ author: "llminatoll"
 柚子胡椒とバターをマージさせることで、和と洋の異なるブランチを見事に統合。創作フレンチのような奥深い風味を提供します。
 
 
-![鮭の柚子胡椒ホイル蒸し](images/chap-llminatoll/2_sake.jpg)
+![鮭の柚子胡椒ホイル蒸し](images/chap-llminatoll/2_sake.jpg){width=60%}
 
 ### 材料　
 

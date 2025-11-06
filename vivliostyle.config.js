@@ -27,64 +27,69 @@ const def = {
     // 第一部 とにかく楽をする
     "part-easy.md",
 	"chap-okazunomoto.md",
+    "chap-ditflame_05_auto_washer.md",
+    "chap-ditflame_04_cream_pasta.md",
+    "chap-ditflame_06_easy_fukuromen.md",
+    "chap-kouno.md",
+	"chap-oyakata-himono.md",
 
 
-    // 第二部 Vivliostyleについて
-    "part-tips.md",
-	"chap-oyakata-cookingenginerring.md",
-	"chap-rhodium-thermal.md",
-    "chap-gomana2_1.md",
-    "chap-yumechi-1-nukazuke.md",
+
+    // 第2部 エンジニアの生態
+    "part-engineer.md",
     "chap-yumechi-2-coffee.md",
     "chap-yumechi-3-protein.md",
     "chap-mottox2-coffee.md",
     "chap-mottox2-no-cooking.md",
-    "chap-forte_1_short-diet.md",
+    "chap-ditflame_14_nomikai.md",
+	"chap-yuusukesan18.md",
+
+
+
+	// 第2部　食を支える知識
+	"part-tools.md",
+	"chap-oyakata-cookingenginerring.md",
+	"chap-rhodium-thermal.md",
+    "chap-gomana2_1.md",
+
+    "chap-forte_5_media.md",
+    "chap-erukiti1.md",
+    "chap-recommended_cooking_equipment.md",
+    "chap-ponyoxa.md",
+	"chap-traditionalbase.md",
+  	"chap-ditflame_09_shareholder_greeting.md",
+  	"chap-ditflame_08_emergency_food.md",
+    "chap-ditflame_03_be_sharp_your_blade.md",
+	"chap-rhodium-2.md",
+	"chap-rhodium-3.md",
+	"chap-kitchenknife.md",
+	"chap-allergy.md",
+
+	"part-takeout.md",
     "chap-forte_2_Seasonal-foods.md",
     "chap-forte_3_Specialty-store.md",
-    "chap-forte_4_low-salt.md",
-    "chap-forte_5_media.md",
-
-    "chap-erukiti1.md",
-
-    "chap-recommended_cooking_equipment.md",
     "chap-recommended_shop.md",
-
-    "chap-ditflame_01_zosui.md",
-    "chap-ditflame_02_thanko_ricecooker.md",
-    "chap-ditflame_05_auto_washer.md",
-    "chap-ditflame_04_cream_pasta.md",
-    "chap-ditflame_06_easy_fukuromen.md",
-
-    "chap-ditflame_03_be_sharp_your_blade.md",
-  	"chap-ditflame_07_curry_careful.md",
-  	"chap-ditflame_08_emergency_food.md",
-  	"chap-ditflame_10_world_of_mint.md",
-  	"chap-ditflame_09_shareholder_greeting.md",
-    
-    "chap-ditflame_11_souvenir.md",
-    "chap-ditflame_12_ajitama.md",
-    "chap-ditflame_13_revonegi.md",
-    "chap-ditflame_14_nomikai.md",
-    
-    "chap-yuusukesan18.md",
-	"chap-nabekura-eating.md",
-
-    "chap-ponyoxa.md",
-
-    "chap-kouno.md",
-	"chap-allergy.md",
 	"chap-oyakata-supermarktet.md",
 	"chap-oyakata-onecup.md",
+	"chap-nabekura-eating.md",
+    "chap-ditflame_11_souvenir.md",
+
+    // 第二部 Vivliostyleについて
+    "part-tips.md",
+    "chap-yumechi-1-nukazuke.md",
+    "chap-forte_4_low-salt.md",
+    "chap-ditflame_01_zosui.md",
+    "chap-ditflame_02_thanko_ricecooker.md",
+	"chap-kawahara-simple.md",
+    "chap-forte_1_short-diet.md",
+  	"chap-ditflame_07_curry_careful.md",
+  	"chap-ditflame_10_world_of_mint.md",
     "chap-llminatoll_1_rusk.md",
     "chap-llminatoll_2_sake.md",
-	"chap-oyakata-himono.md",
-
-	"chap-traditionalbase.md",
-	"chap-kitchenknife.md",
+    "chap-ditflame_12_ajitama.md",
+    "chap-ditflame_13_revonegi.md",
 	"chap-basebread.md",
-	"chap-kawahara-simple.md",
-	"chap-rhodium-2.md",
+
     "chap-column.md",
 
     // 後書き

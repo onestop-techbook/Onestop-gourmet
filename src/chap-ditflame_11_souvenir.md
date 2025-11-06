@@ -13,7 +13,7 @@ author: "ditflame"
 
 すると、それをお土産としてパッケージ化したお土産ラーメンがあります。
 
-![お土産ラーメンの例](images/chap-ditflame_11_souvenir/1.jpg)
+![お土産ラーメンの例](images/chap-ditflame_11_souvenir/1.jpg){width=60%}
 
 知らない人も多いかもしれませんが、最近のお土産ラーメンはだいたいうまいです（今は全国でお土産ラーメンだけを専門に作る業者さんもいくつかあるようなので、味が総じて担保されがちなようです。専門業者さんでいうと、例えばアイランド食品さんなどが代表的です）
 
@@ -43,7 +43,7 @@ author: "ditflame"
 
 これは例えば、広島県尾道市の阿藻珍味さんの「あもちんの尾道ラーメン」です。
 
-![あもちんの尾道ラーメン(画像はHPから引用)](images/chap-ditflame_11_souvenir/2.jpg)
+![あもちんの尾道ラーメン(画像はHPから引用)](images/chap-ditflame_11_souvenir/2.jpg){width=60%}
 
 参考： https://amochinmi.co.jp/products/984/
 
@@ -53,7 +53,7 @@ author: "ditflame"
 
 これは例えば、和歌山市にあるお茶の玉林園さんが「グリーンコーナー」という店舗を出しているのですが、ここで食べられる天かす入りラーメンです。
 
-![てんかけラーメン](images/chap-ditflame_11_souvenir/3.jpg)
+![てんかけラーメン](images/chap-ditflame_11_souvenir/3.jpg){width=60%}
 
 参考： http://gyokurin-en.co.jp/rahmen.html
 

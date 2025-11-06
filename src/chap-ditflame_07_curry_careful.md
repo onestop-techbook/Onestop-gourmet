@@ -52,15 +52,15 @@ author: "ditflame"
 
 なおこんな事を書いていますが、撮った写真をみてみると野菜から焼いていましたね……　はて……（結局火が通って両方炒められていればよいといえばよい）
 
-![根菜をいためよう](images/chap-ditflame_07_curry_careful/2.jpg)
-![肉もいためよう(なお関西なので牛)](images/chap-ditflame_07_curry_careful/3.jpg)
+![根菜をいためよう](images/chap-ditflame_07_curry_careful/2.jpg){width=60%}
+![肉もいためよう(なお関西なので牛)](images/chap-ditflame_07_curry_careful/3.jpg){width=60%}
 
 <div class="column">
 <div class="column-title">カレー用の野菜水煮</div>
 
 カレー用の野菜水煮を使うと時短できます。
 ただし、野菜水煮はどうしても野菜の旨味が多少失われた状態になっているので、野菜の味がものたりなくなるようです。そしてコスパも悪い……（妻から不評でした）
-![シチューの時に野菜水煮を使ってみたけれど……](images/chap-ditflame_07_curry_careful/4.jpg)
+![シチューの時に野菜水煮を使ってみたけれど……](images/chap-ditflame_07_curry_careful/4.jpg){width=60%}
 
 </div>
 
@@ -71,13 +71,13 @@ author: "ditflame"
 ### 焼けたら鍋に移して水を規定量入れて煮る
 
 焼けたら規定量の水を入れて煮ましょう
-![煮よう。煮る料理だからね。](images/chap-ditflame_07_curry_careful/5.jpg)
+![煮よう。煮る料理だからね。](images/chap-ditflame_07_curry_careful/5.jpg){width=60%}
 
 ### 煮立ってきたらアクが出るのですくいとる
 
 肉を煮るとアクが出ます。すくいましょう。
 何度かすくってるとアクは出なくなります。
-![アクをすくおう](images/chap-ditflame_07_curry_careful/6.jpg)
+![アクをすくおう](images/chap-ditflame_07_curry_careful/6.jpg){width=60%}
 
 アクをすくいながら規定時間煮ます。
 なお煮る時の撹拌はお玉が使われがちですが、菜箸のほうが楽な事もあります。
@@ -127,7 +127,7 @@ https://www.h-spice.jp/dictionary/cd_085423.html
 
 味が決まったあと５分ほど煮込めば完成です。
 
-![完成](images/chap-ditflame_07_curry_careful/7.jpg)
+![完成](images/chap-ditflame_07_curry_careful/7.jpg){width=60%}
 
 ## おわりに
 

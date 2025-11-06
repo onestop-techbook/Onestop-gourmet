@@ -17,9 +17,9 @@ author: "ditflame"
 
 これは、野菜くずで芽が出そうなところを水につけておくと、芽が出るのを楽しむ　という水耕栽培法です。
 
-![リボベジ例：にんじん](images/chap-ditflame_13_revonegi/1.jpg)
+![リボベジ例：にんじん](images/chap-ditflame_13_revonegi/1.jpg){width=50%}
 
-![リボベジ例：パイナップル](images/chap-ditflame_13_revonegi/2.jpg)
+![リボベジ例：パイナップル](images/chap-ditflame_13_revonegi/2.jpg){width=50%}
 
 これをネギで行うのがリボネギになります。ただしネギを継続的に得るには1つだけ大事なコツがあります。
 
@@ -31,11 +31,11 @@ author: "ditflame"
 
 実際に水耕栽培で根が伸びたことを確認し、腐葉土袋に植えた例が次のような形になります。
 
-![これが、リボネギだ！](images/chap-ditflame_13_revonegi/3.jpg)
+![これが、リボネギだ！](images/chap-ditflame_13_revonegi/3.jpg){width=50%}
 
 新鮮なネギをぜひ得て下さい。新鮮なネギは薬味としてさいつよです。
 
-![いつでも新鮮なネギが採れるという幸せ](images/chap-ditflame_13_revonegi/4.jpg)
+![いつでも新鮮なネギが採れるという幸せ](images/chap-ditflame_13_revonegi/4.jpg){width=50%}
 
 ## おわりに
 

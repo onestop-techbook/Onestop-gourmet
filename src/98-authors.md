@@ -56,7 +56,7 @@ class: author
 
 
 <div class="author-profile">
-    <img src="images/yumechi_400x400.jpg">
+    <img src="images/yumechi_400x400.png">
     <div>
         <div>
             <b>yumechi</b>

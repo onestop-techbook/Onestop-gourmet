@@ -15,7 +15,7 @@ author: "ditflame"
 
 まずはダイドーが出している「飲むフリスク」です。
 
-![超級者用ポーション](images/chap-ditflame_10_world_of_mint/1.jpg)
+![超級者用ポーション](images/chap-ditflame_10_world_of_mint/1.jpg){width=50%}
 
 実際に飲んでみました。
 
@@ -31,11 +31,11 @@ author: "ditflame"
 
 こちらは無印良品のオリジナルアイスです。
 
-![ミント好きな人はぜひ](images/chap-ditflame_10_world_of_mint/2.jpg)
+![ミント好きな人はぜひ](images/chap-ditflame_10_world_of_mint/2.jpg){width=50%}
 
 ミントがすっごい。かといって前述の飲むフリスクほど強烈ではなく、強いミント感と味を絶妙なラインでバランスを取っています。
 
-![あけたらこんなかんじ](images/chap-ditflame_10_world_of_mint/3.jpg)
+![あけたらこんなかんじ](images/chap-ditflame_10_world_of_mint/3.jpg){width=50%}
 
 間違いなくミント界における今年の神の御業……！
 

@@ -21,7 +21,7 @@ class: chapter
 
 では、これを使って何を作るかというと、肉味噌ですね。豚肉でも鶏肉でもいいのですが、ひき肉を香味野菜や調味料と一緒に鍋で煮込むだけで肉味噌になります。これがご飯やパスタ、うどんなど何にかけても美味しいし、そのままおつまみにしても良いです。市販のひき肉に比べればかなりヘルシーに、かつふりかけのような味濃いめにできるのでおすすめです。
 
-![ぶんぶんチョッパー](images/chap-recommended_cooking_equipment/bunbun.jpg){width=50%}
+![ぶんぶんチョッパー](images/chap-recommended_cooking_equipment/bunbun.jpg){width=40%}
 
 ## ホットサンドメーカー
 ホットサンドメーカー（画像引用元<span class="footnote">https://www.wahei.co.jp/products/atsuhokadining/21468.html</span>）はAmazonでだいたい1,500円程度で買えます。ホットサンドメーカーはサンドイッチ、ホットサンドを焼くものなのですが、私は一回もホットサンド（サンドイッチ）を焼いたことがなく多くは肉を焼いています。

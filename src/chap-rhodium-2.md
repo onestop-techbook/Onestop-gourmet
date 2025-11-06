@@ -32,7 +32,6 @@ $$
 
 ### 矩形断面の場合
 
-![1](images/chap-rhodium-2/image.png){widwh=50%}
 
 ゼラチン化したレイヤーの成長が階段状になっていますが、これは微分方程式を数値解法により求めたことが原因です。
 
@@ -40,7 +39,7 @@ $$
 
 ![矩形形状](images/chap-rhodium-2/img2.png)
 
-![円形形状](images/chap-rhodium-2/img3.png)
+![矩形形状のゼラチン化分布](images/chap-rhodium-2/img3.png)
 
 矩形の他の形状として、円形と花形を試します。
 

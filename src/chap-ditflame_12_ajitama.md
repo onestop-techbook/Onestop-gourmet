@@ -27,7 +27,7 @@ author: "ditflame"
 
 ゆで卵を信じてしっかり混ぜてください。
 
-![まぜないと、こう……　偏っちゃいます](images/chap-ditflame_12_ajitama/1.jpg)
+![まぜないと、こう……　偏っちゃいます](images/chap-ditflame_12_ajitama/1.jpg){width=60%}
 
 ### 卵を１３分茹でたら速攻冷やせ
 
@@ -50,13 +50,13 @@ author: "ditflame"
 
 一晩ぐらい寝かせれば十分でしょう。冷蔵庫に入れてほっときましょう。
 
-![しっかり浸かれよ……](images/chap-ditflame_12_ajitama/2.jpg)
+![しっかり浸かれよ……](images/chap-ditflame_12_ajitama/2.jpg){width=60%}
 
 ## あじたまができたぞ
 
 これで家ラーが捗りますね！
 
-![家ラーにあじたまのある生活、始めませんか。](images/chap-ditflame_12_ajitama/3.jpg)
+![家ラーにあじたまのある生活、始めませんか。](images/chap-ditflame_12_ajitama/3.jpg){width=60%}
 
 ## おわりに
 

@@ -11,7 +11,7 @@ author: "llminatoll"
 しかも材料3つ、調理時間5分という超軽量設計！
 一般的なパンラスクというレガシーシステムから脱し、お麩という軽量モジュールを採用することで、あなたの開発コストを劇的に削減します。
 
-![麩でつくるラスク](images/chap-llminatoll/1_rusk.jpg)
+![麩でつくるラスク](images/chap-llminatoll/1_rusk.jpg){width=60%}
 
 ### 材料は3つだけ
 
