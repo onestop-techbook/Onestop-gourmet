@@ -187,6 +187,21 @@ Webアプリケーションのバックエンドエンジニアですが、い�
 なんか14章ぐらい書いてました……(親方Project合同誌ではいつものことといえばいつものことなのだけど)。個人的にはリボネギの概念を推していきたいです。
 </p>
 
+
+<div class="author-profile">
+    <img src="images/sapi_kawahara.png">
+    <div>
+        <div>
+            <b>さっぴー川原</b>
+            <a href="https://twitter.com/sapi__kawahara">@sapi__kawahara</a>
+        </div>
+    </div>
+</div>
+<p style="margin-top: 0.5em; margin-bottom: 2em;">
+4畳半での苦しい生活が、チープ飯を生みました。今は結婚済みの老害エンジニアです。それと、いよいよカジュアル面談2が出るかも？
+</p>
+
+
 <!-- ページ数調整 -->
 <br />
 <br />
@@ -198,6 +213,3 @@ Webアプリケーションのバックエンドエンジニアですが、い�
 <br />
 <br />
 <br />
-
-
-
