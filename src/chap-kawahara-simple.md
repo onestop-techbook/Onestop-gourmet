@@ -5,6 +5,10 @@ author: "sapi_kawahara"
 ---
 
 # 究極のチープ飯！マーガリン醤油飯と揚げ玉ご飯の魅力
+<div class="flush-right">
+さっぴー川原 @sapi_kawahara
+</div>
+
 
 この二大チープ飯に共通するのは、「手軽さ」「安価さ」「満足感」という三拍子です。
 
