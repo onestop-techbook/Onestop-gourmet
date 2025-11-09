@@ -201,6 +201,18 @@ Webアプリケーションのバックエンドエンジニアですが、い�
 4畳半での苦しい生活が、チープ飯を生みました。今は結婚済みの老害エンジニアです。それと、いよいよカジュアル面談2が出るかも？
 </p>
 
+<div class="author-profile">
+    <img src="images/gomana2_400x400.jpg">
+    <div>
+        <div>
+            <b>ごまなつ</b>
+            <a href="https://twitter.com/akrolayer">@akrolayer</a>
+        </div>
+    </div>
+</div>
+<p style="margin-top: 0.5em; margin-bottom: 2em;">
+毎日同じものを食べると体を壊しました。メンタルが絶えれても体は耐えれないようです。とある音ゲーのプロゲーマーやってます。
+</p>
 
 <!-- ページ数調整 -->
 <br />
